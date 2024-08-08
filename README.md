@@ -8,7 +8,7 @@ Description: Created an insightful Power BI dashboard for pizza sales using SQL,
 GitHub Link: https://rb.gy/6tan6y 
 
 3)Madhav Ecommerce Sales Dashboard Project  
-Description: Designed a Power BI dashboard for Madhav Store to track and analyze online sales data across India. 
+Description: Designed a Power BI dashboard for Madhav Store to track and analyze online sales data across India.
 GitHub Link: https://rb.gy/xagb7f
 
 4)Power BI HR Analytics Dashboard Project  
@@ -16,5 +16,5 @@ Description: Developed an HR dashboard in Power BI focused on attrition analysis
 GitHub Link: https://cl.gy/mHzcE 
 
 5)Power BI SuperStore Sales Dashboard Project  
-Description: Created a Power BI dashboard for SuperStore sales, showcasing sales trends, regions, segments, payment modes, and KPIs. 
+Description: Created a Power BI dashboard for SuperStore sales, showcasing sales trends, regions, segments, payment modes, and KPIs.
 GitHub Link: https://rb.gy/opxitd
