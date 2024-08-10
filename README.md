@@ -18,3 +18,9 @@ GitHub Link: https://cl.gy/mHzcE
 5)Power BI SuperStore Sales Dashboard Project  
 Description: Created a Power BI dashboard for SuperStore sales, showcasing sales trends, regions, segments, payment modes, and KPIs.                                                         
 GitHub Link: https://rb.gy/opxitd
+
+6)Hotel Booking Analysis Dashboard Using Power BI and Python
+
+Description: Analyze hotel bookings to uncover insights on revenue, booking trends, and cancellations. This project utilizes Power BI and Python for data-driven visualizations and strategic decision-making.
+
+GitHub Link: https://rb.gy/ocnllt
