@@ -28,4 +28,4 @@ GitHub Link: https://rb.gy/ocnllt
 7)Developed an Interactive Excel Sales Dashboard
 Description:   An interactive Excel dashboard showcasing sales data analysis across various categories. Features include dynamic charts for sales by category, profit trends, geographical distribution, and customer analysis. This project demonstrates proficiency in Excel for business intelligence and data-driven decision-making.
 
-GitHub Link:  https://rb.gy/l747vg
+GitHub Link: https://rb.gy/dvrt0h
