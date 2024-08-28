@@ -24,3 +24,8 @@ GitHub Link: https://rb.gy/opxitd
 Description: Analyze hotel bookings to uncover insights on revenue, booking trends, and cancellations. This project utilizes Power BI and Python for data-driven visualizations and strategic decision-making.
 
 GitHub Link: https://rb.gy/ocnllt
+
+7)Developed an Interactive Excel Sales Dashboard
+Description:   An interactive Excel dashboard showcasing sales data analysis across various categories. Features include dynamic charts for sales by category, profit trends, geographical distribution, and customer analysis. This project demonstrates proficiency in Excel for business intelligence and data-driven decision-making.
+
+GitHub Link:  https://rb.gy/l747vg
